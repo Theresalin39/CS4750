@@ -1,9 +1,6 @@
 # CS4750
 Mobile App
-# my_first_flutter_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+# Description
+This toddler learning number app is designed to help young children learn basic numeracy skills. The app is designed to the developmental needs and interests of toddlers, with colorful graphics to keep them entertained and motivated. 
+# key features
+The key features of the app is number recognition: The app use visual aids such as colorful graphics and illustrations to help toddlers learn to recognize and identify the numbers 1-10.
